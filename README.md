@@ -7,7 +7,6 @@ I hold a software engineering degree from Nha Trang University. I work as a Full
 
 - 🎓 Graduated from Nha Trang University with an undergraduate degree.
 - 🔥 I am a software engineer and a programming instructor. I work as a programmer for companies websites.
-- 📚 My notes of learning at [https://profile-forme.cf](https://profile-forme.cf) and GitHub.
 - 😍 My hobbies are coding, reading, and cooking.
 - 💌 Contact me at [haoqn.work@gmail.com](mailto:haoqn.work@gmail.com).
 
