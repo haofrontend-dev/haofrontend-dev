@@ -52,16 +52,46 @@
 </p>
 
 ---
-## 📊 GitHub Stats
+## 👀 Profile Views
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=haofrontend-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
+  <img src="https://komarev.com/ghpvc/?username=haofrontend-dev&style=flat-square&color=blue" />
 </p>
 
 ---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=haofrontend-dev&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+--
+
+## 🧩 Most Used Technologies
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haofrontend-dev&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haofrontend-dev&theme=tokyonight" />
+</p>
+
+--
+
+## 🧠 Learning & Roadmap
+
+- 🔥 Advanced React Patterns
+- ⚡ Frontend Performance Optimization
+- 🤖 AI-powered Web Applications
+- 🧱 System Design for Web Developers
+
+--
+
+## ⏱️ Coding Time
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX.svg" />
+</p>
+
+--
 
 ## 🔥 Contribution Activity
 
