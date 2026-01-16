@@ -59,13 +59,16 @@
 </p>
 
 ---
-## 🏆 GitHub Trophies
+## 🛠️ Tools I Use Daily
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haofrontend-dev&theme=onedark&no-frame=true&row=1&column=6" />
+- VS Code
+- Git & GitHub
+- Chrome DevTools
+- Postman
+- Linux / macOS src="https://github-profile-trophy.vercel.app/?username=haofrontend-dev&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
---
+---
 
 ## 🧩 Most Used Technologies
 
@@ -74,7 +77,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haofrontend-dev&theme=tokyonight" />
 </p>
 
---
+---
 
 ## 🧠 Learning & Roadmap
 
@@ -83,15 +86,15 @@
 - 🤖 AI-powered Web Applications
 - 🧱 System Design for Web Developers
 
---
+---
 
-## ⏱️ Coding Time
+## ⏱️ Coding Habit
 
-<p align="center">
-  <img src="https://wakatime.com/badge/user/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX.svg" />
-</p>
+- 💻 Coding almost every day
+- 🔥 Frontend-focused commits
+- 🧠 Clean code & performance oriented
 
---
+---
 
 ## 🔥 Contribution Activity
 
