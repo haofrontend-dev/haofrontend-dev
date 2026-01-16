@@ -52,12 +52,10 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=haofrontend-dev&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -65,11 +63,7 @@
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight&utcOffset=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haofrontend-dev&theme=tokyonight" />
 </p>
 
 ---
