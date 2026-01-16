@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- ===================== BANNER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:22c55e&height=180&section=header&text=Nguyễn%20Quốc%20Hào&fontSize=38&fontColor=ffffff" />
 </p>
@@ -23,8 +23,9 @@
 
 - 🎓 Software Engineering graduate – **Nha Trang University**
 - 💼 Full-Stack Web Developer & Programming Instructor
-- 🔥 Passionate about **Frontend Architecture, UI/UX & Clean Code**
+- 🔥 Focus on **Frontend Architecture, UI/UX & Clean Code**
 - 📚 Hobbies: Coding • Reading • Cooking
+- 💌 Contact: **haoqn.work@gmail.com**
 
 ---
 
@@ -55,19 +56,48 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight&utcOffset=7" />
+</p>
+
+---
+
+## 🧠 What I'm focusing on now
+
+- 🚀 Building scalable Frontend Architecture (React / Vue)
+- 🤖 Applying AI into Web Products
+- 🧩 Improving UX & Performance
+- 📚 Teaching programming & mentoring juniors
+
+---
+
 ## 📌 Featured Projects
+
 - 🔹 **Profile Forme** – Personal profile & notes system  
 - 🔹 **Company Websites** – Full-stack business solutions  
 - 🔹 **Teaching Platform** – Programming for students  
 
 ---
 
+## 💬 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<!-- ===================== FOOTER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:3b82f6&height=120&section=footer"/>
 </p>
